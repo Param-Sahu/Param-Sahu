@@ -22,8 +22,8 @@ C++ program for converting between different number systems (Binary, decimal, oc
 ### [Many Calculators](https://github.com/Param-Sahu/MANY-CALCULATORS)
 Collection of various calculators in C++ and Python.
 
-### [Tkinter Practice](https://github.com/Param-Sahu/Tkinter_Practice)
-Practice repository for Python's Tkinter module.
+### [Happy_Dipawali_By_Python](https://github.com/Param-Sahu/Happy_Dipawali_By_Python)
+Message people on WhatsApp web : "Happy Dipawali `Name` " using python script. I created this program for fun and testing my coding skills in Python.
 
 
 
