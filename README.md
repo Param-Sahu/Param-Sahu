@@ -1,27 +1,47 @@
-- 👋 Hi, I’m @Param-Sahu
-- 👀 I’m interested in Programming Languages like C++, PYTHON . As well as Microcontroller Programming , Ardunio Projects.
-- - 🌱 I’m currently learning Python and GUI development.
-- 💞️ I’m looking to collaborate on software as well as Hardware Projects.
-- 📫 How to reach me via https://www.linkedin.com/in/param-sahu
+# 👋 Hi, I'm Param Sahu
 
-- </br>
-- I am Param Sahu , 2nd Year Student at " School of Instrumentation , DEVI AHILYA VISHWAVIDYALAYA (DAVV) " pursuing "Integrated M.Tech IoT (Internet of Things)".
+## About Me
+I'm a 2nd-year student at the **School of Instrumentation, DAVV**, pursuing an **Integrated M.Tech in IoT (Internet of Things)**. I enjoy programming in C++ and Python and working on IoT projects.
 
- - Internet of Things (IoT) refers to the network of physical objects or "things" embedded with sensors,  software and connectivity that allows them to collect and exchange data over the internet.🌐
-- Smart Televisions , Home Automation are examples of IoT.
+- 🌍 Based in Indore, India.
+- 🎓 Studying Integrated M.Tech in IoT.
+- 💡 Interested in IoT Projects.
+- 💻 Passionate about C++ and Python.
 
-- Enjoy 😃 coding in C++ and Python . 
+## Projects
 
-- Enjoy 😃 working on IoT projects. 
+### [Scientific Calculator Desktop Application](https://github.com/Param-Sahu/Scientific_Calculator_Desktop_Application)
+Python-based scientific calculator GUI desktop application.
 
-- Hands-on experience with Arduino and Node MCU ESP8266 Microcontroller with Arduino IDE .👨‍💻
-</br>
+### [Matrix Algebra](https://github.com/Param-Sahu/Matrix_Algebra)
+A C++ program to perform matrix operations.
+
+### [Number System Conversions](https://github.com/Param-Sahu/Number_System_Conversions)
+C++ program for converting between different number systems (Binary, decimal, octal and hexadecimal.
+
+### [Many Calculators](https://github.com/Param-Sahu/MANY-CALCULATORS)
+Collection of various calculators in C++ and Python.
+
+### [Tkinter Practice](https://github.com/Param-Sahu/Tkinter_Practice)
+Practice repository for Python's Tkinter module.
 
 
 
-![C++](https://github.com/Param-Sahu/Param-Sahu/assets/147901491/273998a2-da08-4b9d-89fe-a545248c40f7) ![Python](https://github.com/Param-Sahu/Param-Sahu/assets/147901491/1c78d7be-9bdc-41be-8ba9-fbd7d1beee3a) ![Arduino](https://github.com/Param-Sahu/Param-Sahu/assets/147901491/390ee238-c8f3-453d-bc9f-1029256a3fae) ![IOT](https://github.com/Param-Sahu/Param-Sahu/assets/147901491/264290cc-a946-4b0e-b01c-fa59e34bfbb7)
+## Skills
+- **Programming Languages :** C++, Python
+- **Technologies :**: Internet of Things.
+- **Concepts :** Object-oriented Programming, File Handling, Exception Handling, Statistics and Probability.
+- **Development Tools :** Git, GitHub, Arduino, Arduino IDE, LabVIEW.
+- **Frameworks :**  Graphical User Interface using Tkinter (Python).
 
-<!---
-Param-Sahu/Param-Sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Get in Touch
+- ![linkedin](https://github.com/Param-Sahu/Param-Sahu/assets/147901491/b2a45270-3487-472d-91d3-aadd8853c264)    [LinkedIn](https://www.linkedin.com/in/param-sahu)
+- ![hackerrank](https://github.com/Param-Sahu/Param-Sahu/assets/147901491/a648a0c4-a30b-4bb0-95a1-d54f34ceb0f1)   [HackerRank](https://www.hackerrank.com/Param_Sahu)
+- ![yt](https://github.com/Param-Sahu/Param-Sahu/assets/147901491/2bd5f2f6-3c0c-42bd-ad60-3d15ac1fad8f)  [YouTube](https://www.youtube.com/@Param-Sahu)
+
+Feel free to reach out if you want to collaborate on software or hardware projects!
+
+## Contributions
+I am always open to contributions and collaborations on interesting projects. Check out my repositories and let's work together to build something amazing!
+
+*Happy Coding!*
