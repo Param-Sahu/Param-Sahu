@@ -10,6 +10,9 @@ I'm a 2nd-year student at the **School of Instrumentation, DAVV**, pursuing an *
 
 ## Projects
 
+### [Face_Recogniton_Based_Attendance_System](https://github.com/Param-Sahu/Face_Recognition_Based_Attendance_System.git)
+ The system captures video from the webcam, recognizes faces, and marks attendance to a Google Sheet.
+
 ### [Scientific Calculator Desktop Application](https://github.com/Param-Sahu/Scientific_Calculator_Desktop_Application)
 Python-based scientific calculator GUI desktop application.
 
