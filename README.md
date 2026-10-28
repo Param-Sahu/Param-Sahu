@@ -98,7 +98,11 @@ Built an automated ELT pipeline integrating Azure Blob Storage with Snowflake. U
 
 - **Databricks Fundamentals** — Databricks Academy  
   [View Credential](https://credentials.databricks.com/462c7609-8730-4c5b-825b-dadf3611c2ca)
-
+- **AI Agent Fundamentals** — Databricks Academy  
+  [View Credential](https://credentials.databricks.com/349d6d22-0f57-4cd4-bf0b-587253386ea5#acc.rCgnIOqN)
+- **Generative AI Fundamentals** — Databricks Academy  
+  [View Credential](https://credentials.databricks.com/ef524bd3-5041-4efa-ad1c-ff3c723ffe6b#acc.guqFCeRO)
+  
 ---
 
 ## GitHub Statistics
